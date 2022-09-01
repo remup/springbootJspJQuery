@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springmvc-sample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: RemyaP
+Implementation-Vendor-Id: com.test.springmvc
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-m
+ vc/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
